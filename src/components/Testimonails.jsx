@@ -1,6 +1,6 @@
 import React from 'react'
 import { testimonialsData } from '../assets/assets'
-import { div, img } from 'motion/react-client' 
+// import { div, img } from 'motion/react-client' 
 import {assets}  from '../assets/assets'
 import {motion}  from 'framer-motion'
 
